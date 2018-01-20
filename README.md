@@ -12,9 +12,7 @@ you can change the mode(WGAN-gcp,WGAN-gp,DCGAN) in gan_mnist.py</p>
 # MODE = 'WGAN-gp'</p>
 # MODE = 'DCGAN'</p>
 <center class="half">
-    # WGAN-gp
     ![](https://github.com/nuptwuchen/WGAN-gcp/blob/master/raw/master/pic/gp_4799.png)
-    # WGAN-gcp
     ![](https://github.com/nuptwuchen/WGAN-gcp/blob/master/raw/master/pic/gcp_4799.png)
 </center>
 
