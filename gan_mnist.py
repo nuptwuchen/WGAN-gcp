@@ -24,7 +24,9 @@ DIM = 64 # Model dimensionality
 BATCH_SIZE = 50 # Batch size
 CRITIC_ITERS = 5 # For WGAN and WGAN-GP, number of critic iters per gen iter
 LAMBDA = 10 # Gradient penalty lambda hyperparameter
-ITERS = 200000 # How many generator iterations to train for 
+
+ITERS = 4000# How many generator iterations to train for 
+
 OUTPUT_DIM = 784 # Number of pixels in MNIST (28*28)
 
 lib.print_model_settings(locals().copy())
