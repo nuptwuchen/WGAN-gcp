@@ -16,6 +16,8 @@ you can change the mode(WGAN-gcp,WGAN-gp,DCGAN) in gan_mnist.py</p>
 
 ![](https://github.com/nuptwuchen/WGAN-gcp/blob/master/raw/master/pic/gcp_1999.png)
 
+![](https://github.com/nuptwuchen/WGAN-gcp/blob/master/raw/master/pic/gcp_1999.png)
+
 ![](https://github.com/nuptwuchen/WGAN-gcp/blob/master/raw/master/pic/gp_4799.png)
 
 # WGAN-gcp iteration = 4799
